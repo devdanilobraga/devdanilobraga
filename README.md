@@ -4,7 +4,6 @@
 - 🔭 Atualmente estou trabalhando em um projeto de desenvolvimento web utilizando Node.js.
 - 🌱 Atualmente estou aperfeiçoando meu Node.js.
 - 👯 Estou buscando colaborar em projetos de código aberto relacionados a desenvolvimento de aplicativos móveis.
-- 🤔 I’m looking for help with ...
 - 😄 Pronouns: ele/dele
 
 
